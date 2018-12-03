@@ -14,15 +14,15 @@
             <!-- ============================ -->
             <!-- Diagnoses - Emergency -->
             <!-- ============================ -->
-            <GameDBLocalizedString>      <LocID>DIA_PTI</LocID>                         <Text>Pork tapeworm</Text>	</GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_PTI_DESCRIPTION</LocID>             <Text>Pork tapeworms (T. solium) are parasitic flatworms living in the digestive system of humans. Pigs act as intermediate hosts when they consume fodder or water contaminated with human feces. Eating undercooked pork can cause infection.</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PTI</LocID>                         <Text>Svinbandsmask</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PTI_DESCRIPTION</LocID>             <Text>Svinbandsmask (T. solium) är en parasitisk bandmask som lever i tarmsystemet. Grisar är mellanvärd för denna typ av mask, och att äta otillräckligt tillagat fläskkött är den primära infektionsrisken.</Text>	</GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_BTI</LocID>                         <Text>Beef tapeworm</Text>	</GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_BTI_DESCRIPTION</LocID>             <Text>Beef tapeworms (T. saginata) are parasitic flatworms living in the digestive system of humans. Cattle act as intermediate hosts when they consume fodder or water contaminated with human feces. Eating undercooked beef can cause infection.</Text>	</GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_CKX</LocID>                         <Text>Chickenpox</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_CKX_DESCRIPTION</LocID>             <Text>Chickenpox, also known as varicella, is a highly contagious disease caused by the initial infection with Varicella zoster virus. The disease results in a characteristic skin rash that forms small, itchy blisters, which eventually scab over.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_HRZ</LocID>                         <Text>Shingles</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_HRZ_DESCRIPTION</LocID>             <Text>Shingles is an infection caused by a reactivation of varicella-zoster virus. The disease results in a red skin rash that forms small blisters in a wide stripe following the course of a dermatome. Shingles can be extremely painful.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_ONM</LocID>                         <Text>Nail fungus</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CKX</LocID>                         <Text>Vattkoppor</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_CKX_DESCRIPTION</LocID>             <Text>Vattkoppor, (varicellae) är en väldigt smittsam sjukdom som orsakas av varicella zoster-viruset, och de flesta får den redan som barn. Sjukdomen visar sig i form av kliande blåsor med rodnad.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HRZ</LocID>                         <Text>Bältros</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_HRZ_DESCRIPTION</LocID>             <Text>Bältros (herpes zoster) är en infektion som orsakas av samma virus som vattkoppor. Bältros visar sig i form av kliande blåsor med en rodnad, oftast går rodnaden i en rand runt en kroppsdel. Bältros kan vara extrempt smärtfullt.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_ONM</LocID>                         <Text>Nagelsvamp</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_ONM_DESCRIPTION</LocID>             <Text>Nail fungus, also called Onychomycosis or Tinea unguium, is a fungal infection that affects fingers or toenails.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_ATF</LocID>                         <Text>Athlete’s foot</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_ATF_DESCRIPTION</LocID>             <Text>Athlete’s foot, also called Tinea pedis, is a highly contagious skin infection of the feet caused by fungi.</Text>  </GameDBLocalizedString>
